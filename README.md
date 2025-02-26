@@ -7,6 +7,8 @@ The **Monthly Challenges App** is a full-stack web application that allows users
 
 This project is designed to enhance CRUD (Create, Read, Update, Delete) operations while demonstrating a clean and scalable architecture.
 
+Built using React (frontend) and Spring Boot (backend), with a PostgreSQL database. The project follows a RESTful API architecture and has been tested on AWS using S3 (frontend hosting), Elastic Beanstalk (backend), and RDS (PostgreSQL database). 🚀
+
 ---
 
 ## 🛠️ Tech Stack  
