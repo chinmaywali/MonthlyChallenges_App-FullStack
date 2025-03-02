@@ -129,15 +129,6 @@ http://localhost:3000
   "description": "Learn a new programming language"
 }
 ```
-
----
-
-## 🚀 Future Enhancements  
-🔹 Add **user authentication** (JWT).  
-🔹 Deploy backend on **AWS Elastic Beanstalk** and frontend on **S3**.  
-🔹 Integrate **PostgreSQL** database for production.  
-🔹 Implement **advanced filtering** (e.g., search by month).  
-
 ---
 
 ## 🤝 Contributing  
