@@ -22,9 +22,7 @@ public class Challenge{
         this.Month = Month;
         this.Discription = Discription;
     }
-
-
-
+    
     public long getId() {
         return id;
     }
