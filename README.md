@@ -1,5 +1,3 @@
-
-
 # 📌 Monthly Challenges - Full Stack Web Application  
 
 ## 🚀 Overview  
@@ -25,7 +23,7 @@ Built using React (frontend) and Spring Boot (backend), with a PostgreSQL databa
 - **React 18** - For building the interactive UI.  
 - **Axios** - For making API requests.  
 - **Bootstrap 5** - For styling and responsiveness.
-- **Tested on AWS S3**
+
 ---
 
 ## 🎯 Features  
